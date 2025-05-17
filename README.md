@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hud-sonn
-- 👀 I’m interested in ... in learning coding and more 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... different projects 
-- 📫 How to reach me ... 07046351001
+- 👀 I’m interestedin learning coding and more 
+- 🌱 I’m currently learning how to code 
+- 💞️ I’m looking to collaborate on ... different projects to help me grow
+- 📫 How to reach me ... 08086210802
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
