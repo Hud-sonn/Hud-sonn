@@ -126,9 +126,7 @@ working on tools under my personal alias **Solus Ryuu**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-hudson--portfolio--pi.vercel.app-C0392B?style=for-the-badge&logo=vercel&logoColor=white)](https://hudson-portfolio-pi.vercel.app)
 
 [![Bevah Studio](https://img.shields.io/badge/Bevah%20Studio-bevahstudio.com-3D2B2B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q0QTVBNSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=D4A5A5)](https://bevahstudio.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@hiro__hudson-C0392B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiro_hudson)
-[![Facebook](https://img.shields.io/badge/Facebook-Hudson%20Dev-C0392B?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088453519341)
+[![Instagram](https://img.shields.io/badge/Instagram-@hiro__hudson-C0392B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Hudson_dev)
 [![Email](https://img.shields.io/badge/Email-hirohudson107@gmail.com-1a1214?style=for-the-badge&logo=gmail&logoColor=D4A5A5)](mailto:hirohudson107@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347071051564)
 
