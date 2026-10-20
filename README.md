@@ -123,7 +123,7 @@ working on tools under my personal alias **Solus Ryuu**.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hudson--portfolio--pi.vercel.app-C0392B?style=for-the-badge&logo=vercel&logoColor=white)](https://hudson-portfolio-pi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.soundsphere.name.ng-C0392B?style=for-the-badge&logo=vercel&logoColor=white)](https://dev.soundsphere.name.ng)
 
 [![Bevah Studio](https://img.shields.io/badge/Bevah%20Studio-bevahstudio.com-3D2B2B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q0QTVBNSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=D4A5A5)](https://bevahstudio.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@hudson_dev-C0392B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hudson_dev)
